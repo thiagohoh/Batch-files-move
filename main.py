@@ -6,8 +6,8 @@ import shutil
 #destine = "C:\\Tdestine\\" for windows
 #destine = "C:/Tdestine/" for linux
 numb = 0
-path = "D:\\Pastero IMAGERO\\09"
-destine = "D:\\Destine\\"
+path = ""
+destine = ""
 
 
 # creates dir
